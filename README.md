@@ -26,4 +26,5 @@ End of training project developed in 2 weeks with 3 other brains : <a href="http
 
 
 Le Wagon - Dec. 2021
+
 Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
